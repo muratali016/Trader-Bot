@@ -1,4 +1,5 @@
 # Trader-Bot
+## Use and Invest at Your Own Risk
 
 ## Backtest
 ![Figure_1](https://github.com/muratali016/Trader-Bot/assets/77502485/ab15c5ba-8eaf-41f1-ae10-9f3158d266cb)
