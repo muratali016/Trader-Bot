@@ -1,5 +1,9 @@
 # Trader-Bot
 
+## Backtest
+![Figure_1](https://github.com/muratali016/Trader-Bot/assets/77502485/ab15c5ba-8eaf-41f1-ae10-9f3158d266cb)
+
+
 ## Introduction
 
 This Python script serves as the main component of a trading bot designed to automate cryptocurrency trading on the KuCoin exchange platform. The bot utilizes various signals and market data to make trading decisions, with the primary objective of generating profits.
